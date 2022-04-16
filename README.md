@@ -6,7 +6,7 @@
 
 ## 多源数据+调度
 
-<video src="./MP4/0/BIM1.mp4"></video>
+<video src="BIM1.mp4"></video>
 
 <video src="./MP4/0/倾斜摄影+点云.mp4"></video>
 
