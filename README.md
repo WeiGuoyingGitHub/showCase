@@ -4,7 +4,7 @@
 
 ## 多源数据+调度
 
-<video src="./MP4/0/BIM调度.mp4"></video>
+<video src="./MP4/0/BIM1.mp4"></video>
 
 <video src="./MP4/0/倾斜摄影+点云.mp4"></video>
 
@@ -18,7 +18,7 @@
 
 ## 功能+光照
 
-<video src="./MP4/0/BIM功能(2).mp4"></video>
+<video src=".//MP4//0//BIM功能(2).mp4"></video>
 
 ![BIM爆炸.gif](.\gif\0\BIM爆炸.gif.gif)
 
