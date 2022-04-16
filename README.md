@@ -2,11 +2,11 @@
 
 内核基于Cesium，时间2018年12月至2021年9月。
 
-![1](1.png)
-
 ## 多源数据+调度
 
-<video src="BIM1.mp4"></video>
+<video src="录屏_工厂.mp4"></video>
+
+<video src="./MP4/0/BIM1.mp4"></video>
 
 <video src="./MP4/0/倾斜摄影+点云.mp4"></video>
 
@@ -20,7 +20,7 @@
 
 ## 功能+光照
 
-<video src=".//MP4//0//BIM功能(2).mp4"></video>
+<video src="./MP4/0/BIM功能(2).mp4"></video>
 
 ![BIM爆炸.gif](.\gif\0\BIM爆炸.gif.gif)
 
@@ -28,7 +28,7 @@
 
 ![等高线坡度坡向分析](.\gif\0\等高线坡度坡向分析.gif)
 
-# BIM引擎
+# 轻量BIM引擎
 
 基于Threejs，时间2021年1月至2021年11月。
 
@@ -73,8 +73,6 @@
 
 
 <video src=".\img\1\BIM切片.mp4"></video>
-
-![时间效果-24点](.\img\1\时间效果-24点.png)
 
 ![模型选中效果2](.\img\1\模型选中效果2.png)
 
